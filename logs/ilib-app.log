@@ -1,0 +1,32 @@
+2025-05-30 16:52:53.898 [main] INFO  com.mycompany.ilib.Dashboard - Tema FlatLaf configurado correctamente
+2025-05-30 16:52:54.110 [AWT-EventQueue-0] INFO  com.mycompany.ilib.Dashboard - Programa funcionando correctamente
+2025-05-30 16:52:55.570 [AWT-EventQueue-0] INFO  com.mycompany.ilib.Dashboard - Usuario hizo clic en Principal
+2025-05-30 16:52:56.196 [AWT-EventQueue-0] INFO  com.mycompany.ilib.Dashboard - Usuario hizo clic en Préstamos
+2025-05-30 16:52:57.750 [AWT-EventQueue-0] INFO  com.mycompany.ilib.Dashboard - Usuario hizo clic en Préstamos
+2025-05-30 16:52:58.700 [AWT-EventQueue-0] INFO  com.mycompany.ilib.Dashboard - Usuario hizo clic en Devoluciones
+2025-05-30 16:52:59.598 [AWT-EventQueue-0] INFO  com.mycompany.ilib.Dashboard - Usuario hizo clic en Usuarios
+2025-05-30 16:53:00.342 [AWT-EventQueue-0] INFO  com.mycompany.ilib.Dashboard - Usuario hizo clic en Libros
+2025-05-30 16:53:00.840 [AWT-EventQueue-0] INFO  com.mycompany.ilib.Dashboard - Usuario hizo clic en Reportes
+2025-05-30 16:53:01.241 [AWT-EventQueue-0] INFO  com.mycompany.ilib.Dashboard - Usuario hizo clic en Devoluciones
+2025-05-30 16:53:01.559 [AWT-EventQueue-0] INFO  com.mycompany.ilib.Dashboard - Usuario hizo clic en Préstamos
+2025-05-30 16:53:05.345 [AWT-EventQueue-0] INFO  com.mycompany.ilib.Dashboard - Usuario hizo clic en Devoluciones
+2025-05-30 16:53:08.545 [AWT-EventQueue-0] INFO  com.mycompany.ilib.Dashboard - Usuario hizo clic en Libros
+2025-05-30 16:53:54.576 [AWT-EventQueue-0] DEBUG com.mycompany.ilib.DAOBooksImpl - Intentando registrar libro: Cien noches de soledad
+2025-05-30 16:53:54.580 [AWT-EventQueue-0] INFO  com.mycompany.ilib.DAOBooksImpl - Libro registrado exitosamente: Cien noches de soledad
+2025-05-30 16:53:57.126 [AWT-EventQueue-0] INFO  com.mycompany.ilib.Dashboard - Usuario hizo clic en Libros
+2025-05-30 17:02:11.408 [main] INFO  com.mycompany.ilib.Dashboard - Tema FlatLaf configurado correctamente
+2025-05-30 17:02:11.646 [AWT-EventQueue-0] INFO  com.mycompany.ilib.Dashboard - Programa funcionando correctamente
+2025-05-30 17:05:43.029 [main] INFO  com.mycompany.ilib.Dashboard - Tema FlatLaf configurado correctamente
+2025-05-30 17:05:43.243 [AWT-EventQueue-0] INFO  com.mycompany.ilib.Dashboard - Programa funcionando correctamente
+2025-05-30 17:05:44.908 [AWT-EventQueue-0] INFO  com.mycompany.ilib.Dashboard - Usuario hizo clic en Préstamos
+2025-05-30 17:05:45.352 [AWT-EventQueue-0] INFO  com.mycompany.ilib.Dashboard - Usuario hizo clic en Principal
+2025-05-30 17:06:19.283 [main] INFO  com.mycompany.ilib.Dashboard - Tema FlatLaf configurado correctamente
+2025-05-30 17:06:19.498 [AWT-EventQueue-0] INFO  com.mycompany.ilib.Dashboard - Programa funcionando correctamente
+2025-05-30 17:06:30.398 [main] INFO  com.mycompany.ilib.Dashboard - Tema FlatLaf configurado correctamente
+2025-05-30 17:06:30.611 [AWT-EventQueue-0] INFO  com.mycompany.ilib.Dashboard - Programa funcionando correctamente
+2025-05-30 17:06:44.848 [main] INFO  com.mycompany.ilib.Dashboard - Tema FlatLaf configurado correctamente
+2025-05-30 17:06:45.071 [AWT-EventQueue-0] INFO  com.mycompany.ilib.Dashboard - Programa funcionando correctamente
+2025-05-30 17:06:52.852 [main] INFO  com.mycompany.ilib.Dashboard - Tema FlatLaf configurado correctamente
+2025-05-30 17:06:53.068 [AWT-EventQueue-0] INFO  com.mycompany.ilib.Dashboard - Programa funcionando correctamente
+2025-05-30 17:07:02.131 [AWT-EventQueue-0] INFO  com.mycompany.ilib.Dashboard - Usuario hizo clic en Devoluciones
+2025-05-30 17:07:02.568 [AWT-EventQueue-0] INFO  com.mycompany.ilib.Dashboard - Usuario hizo clic en Principal
