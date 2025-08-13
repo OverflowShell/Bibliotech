@@ -1,0 +1,13 @@
+2025-07-22 12:59:31.873 [AWT-EventQueue-0] INFO  com.mycompany.ilib.Dashboard - Tema FlatLaf configurado correctamente
+2025-07-22 12:59:32.871 [AWT-EventQueue-0] INFO  com.mycompany.ilib.Dashboard - Programa funcionando correctamente
+2025-07-22 12:59:34.099 [AWT-EventQueue-0] INFO  com.mycompany.ilib.Dashboard - Usuario hizo clic en Préstamos
+2025-07-22 12:59:34.896 [AWT-EventQueue-0] INFO  com.mycompany.ilib.Dashboard - Usuario hizo clic en Devoluciones
+2025-07-22 12:59:35.248 [AWT-EventQueue-0] INFO  com.mycompany.ilib.Dashboard - Usuario hizo clic en Usuarios
+2025-07-22 12:59:35.574 [AWT-EventQueue-0] INFO  com.mycompany.ilib.Dashboard - Usuario hizo clic en Libros
+2025-07-22 13:00:01.082 [AWT-EventQueue-0] INFO  com.mycompany.ilib.Dashboard - Usuario hizo clic en Libros
+2025-07-22 13:00:02.037 [AWT-EventQueue-0] INFO  com.mycompany.ilib.Dashboard - Usuario hizo clic en Libros
+2025-07-22 13:00:02.447 [AWT-EventQueue-0] INFO  com.mycompany.ilib.Dashboard - Usuario hizo clic en Reportes
+2025-07-22 13:00:02.718 [AWT-EventQueue-0] INFO  com.mycompany.ilib.Dashboard - Usuario hizo clic en Usuarios
+2025-07-22 13:00:10.859 [AWT-EventQueue-0] INFO  com.mycompany.ilib.Dashboard - Usuario hizo clic en Préstamos
+2025-07-22 13:00:11.516 [AWT-EventQueue-0] INFO  com.mycompany.ilib.Dashboard - Usuario hizo clic en Libros
+2025-07-22 13:00:12.255 [AWT-EventQueue-0] INFO  com.mycompany.ilib.Dashboard - Usuario hizo clic en Usuarios
